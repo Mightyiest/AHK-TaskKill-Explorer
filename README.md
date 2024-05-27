@@ -1,6 +1,6 @@
 # AHK-TaskKill-Explorer
 
-AHK-TaskKill-Explorer is an AutoHotkey script designed to optimize system performance while playing Valorant by terminating `explorer.exe`.
+AHK-TaskKill-Explorer is an AutoHotkey script designed to optimize system performance while playing Any Fullscreen Games by terminating `explorer.exe`.
 
 ## Installation
 
@@ -12,14 +12,20 @@ AHK-TaskKill-Explorer is an AutoHotkey script designed to optimize system perfor
 
 ## Usage
 
-1. **Running the Script**: Once the script is running, it will automatically monitor the running state of the specified process (e.g., Valorant, valorant.exe) in the background.
-
+1. **Running the Script**: Once the script is running, it will automatically monitor the running state of the specified process (e.g., Valorant, `VALORANT-Win64-Shipping.exe`) in the background.
+ 
 2. **Optimizing Performance**: When the specified process is running, the script will terminate the `explorer.exe` process using `taskkill` to prevent distractions and optimize system performance.
 
 3. **Restoring Explorer**: When the specified process is no longer running, the script will automatically restart the `explorer.exe` process.
 
 ## Important Note
 **Note: You can customize the script to monitor and manage any process by editing the script and changing the process name in the code.**
+
+|Game |Process Name     |
+| :-------- | :------- |
+| Valorant | `VALORANT-Win64-Shipping.exe` |
+| Dota 2 | `dota2.exe` |
+| Apex Legends | `r5apex.exe` |
 
 ## License
 
