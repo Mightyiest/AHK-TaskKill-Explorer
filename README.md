@@ -37,4 +37,4 @@ Contributions are welcome! Feel free to submit bug reports, feature requests, or
 
 ## Contact
 
-If you have any questions or feedback, you can reach me at Discord@.Mightyiest.
+If you have any questions or feedback, you can reach me at Discord @ .Mightyiest.
